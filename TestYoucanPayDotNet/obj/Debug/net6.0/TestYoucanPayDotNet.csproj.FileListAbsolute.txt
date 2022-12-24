@@ -1,0 +1,15 @@
+F:\Mes projets\YoucanPayForDotnet\TestYoucanPayDotNet\TestYoucanPayDotNet\bin\Debug\net6.0\TestYoucanPayDotNet.exe
+F:\Mes projets\YoucanPayForDotnet\TestYoucanPayDotNet\TestYoucanPayDotNet\bin\Debug\net6.0\TestYoucanPayDotNet.deps.json
+F:\Mes projets\YoucanPayForDotnet\TestYoucanPayDotNet\TestYoucanPayDotNet\bin\Debug\net6.0\TestYoucanPayDotNet.runtimeconfig.json
+F:\Mes projets\YoucanPayForDotnet\TestYoucanPayDotNet\TestYoucanPayDotNet\bin\Debug\net6.0\TestYoucanPayDotNet.dll
+F:\Mes projets\YoucanPayForDotnet\TestYoucanPayDotNet\TestYoucanPayDotNet\bin\Debug\net6.0\TestYoucanPayDotNet.pdb
+F:\Mes projets\YoucanPayForDotnet\TestYoucanPayDotNet\TestYoucanPayDotNet\obj\Debug\net6.0\TestYoucanPayDotNet.csproj.AssemblyReference.cache
+F:\Mes projets\YoucanPayForDotnet\TestYoucanPayDotNet\TestYoucanPayDotNet\obj\Debug\net6.0\TestYoucanPayDotNet.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mes projets\YoucanPayForDotnet\TestYoucanPayDotNet\TestYoucanPayDotNet\obj\Debug\net6.0\TestYoucanPayDotNet.AssemblyInfoInputs.cache
+F:\Mes projets\YoucanPayForDotnet\TestYoucanPayDotNet\TestYoucanPayDotNet\obj\Debug\net6.0\TestYoucanPayDotNet.AssemblyInfo.cs
+F:\Mes projets\YoucanPayForDotnet\TestYoucanPayDotNet\TestYoucanPayDotNet\obj\Debug\net6.0\TestYoucanPayDotNet.csproj.CoreCompileInputs.cache
+F:\Mes projets\YoucanPayForDotnet\TestYoucanPayDotNet\TestYoucanPayDotNet\obj\Debug\net6.0\TestYoucanPayDotNet.dll
+F:\Mes projets\YoucanPayForDotnet\TestYoucanPayDotNet\TestYoucanPayDotNet\obj\Debug\net6.0\refint\TestYoucanPayDotNet.dll
+F:\Mes projets\YoucanPayForDotnet\TestYoucanPayDotNet\TestYoucanPayDotNet\obj\Debug\net6.0\TestYoucanPayDotNet.pdb
+F:\Mes projets\YoucanPayForDotnet\TestYoucanPayDotNet\TestYoucanPayDotNet\obj\Debug\net6.0\TestYoucanPayDotNet.genruntimeconfig.cache
+F:\Mes projets\YoucanPayForDotnet\TestYoucanPayDotNet\TestYoucanPayDotNet\obj\Debug\net6.0\ref\TestYoucanPayDotNet.dll
